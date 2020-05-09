@@ -1,0 +1,15 @@
+// screens/location_detail/location_detail.dart
+
+import 'package:flutter/material.dart';
+
+class LocationDetail extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('Hello'),
+      ),
+      body: Text(''),
+    );
+  }
+}
